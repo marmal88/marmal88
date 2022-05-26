@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋
 
 My name is Daniel and I am currently learning Data Science and Dev-Ops Engineering
 
@@ -6,7 +6,7 @@ My name is Daniel and I am currently learning Data Science and Dev-Ops Engineeri
 
 - 🔭 I’m currently working on Unit testing
 - 🌱 I’m currently learning Computer Vision
-- 💬 Ask me about Singapore!
+- 💬 Ask me about Singapore and interview questions
 
 #### Contacts 🟢
 
