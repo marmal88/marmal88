@@ -17,3 +17,5 @@ Telegram: [@marmal8](https://t.me/marmal8)
 LinkedIn: [DanielLow](https://www.linkedin.com/in/low-daniel/)
 
 Email: [dlow017@e.ntu.edu.sg](mailto:dlow017@e.ntu.edu.sg)
+
+Huggingface: [@marmal88](https://huggingface.co/marmal88)
