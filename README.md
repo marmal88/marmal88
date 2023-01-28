@@ -1,12 +1,12 @@
 ### Hi there👋
 
-My name is Daniel and I am currently learning Data Science and Dev-Ops Engineering
+My name is Daniel and I am currently Data Science Practitioner in Singapore.
 
 #### About Me 📢
 
-- 🔭 I’m currently working on Unit testing
-- 🌱 I’m currently learning Computer Vision
-- 💬 Ask me about Singapore and interview questions
+- 🔭 I’m currently working on Computer Vision, Salient Object Detection
+- 🌱 I’m currently learning ML-Ops
+- 💬 Ask me about AI in Singapore 
 
 #### Contacts 🟢
 
