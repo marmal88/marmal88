@@ -11,5 +11,7 @@ My name is Daniel and I am currently Data Science Practitioner in Singapore.
 #### Contacts 🟢
 
 Telegram: [@marmal8](https://t.me/marmal8)
+
 LinkedIn: [DanielLow](https://www.linkedin.com/in/low-daniel/)
+
 Email: [danlowgw@gmail.com](mailto:danlowgw@gmail.com)
